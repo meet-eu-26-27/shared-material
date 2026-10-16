@@ -1,4 +1,11 @@
-# BRCA1 variant effect and mechanism 
+# 🧬 Computational Biology Project - BRCA1 variant effect and mechanism 
+
+## 🎯 Course Overview
+
+The goal is to realise a project from A to Z answering an open and ambitious question in biology. In practice, the students have to develop a program or a pipeline that is fully automated, with comprehensive and detailed documentation. Users should be able to run the program/pipeline on input examples without any manual intervention to obtain the final results. 
+
+The website for this year's edition can be found here: https://meet-eu-26-27.github.io/.
+
 
 Everything needed to start the project. Assembled 5 October 2026.
 
