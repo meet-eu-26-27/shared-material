@@ -12,9 +12,9 @@ The course will be launched on October 16, at 2pm, [online](https://cesnet.zoom.
 Everything needed to start the project. Assembled 5 October 2026.
 
 ```
-brca1_variant_project_plan.pdf                    the project description — read this first
-brca1_variant_project_plan.docx                   same, editable
-data/
+Docs/
+  brca1_variant_project_plan.pdf                    the project description — read this first
+Data/
   brca1_clinvar_2026-10-05_predict.tsv            4,606 variants to predict
   brca1_clinvar_2026-10-05_reference_labels.tsv     696 confidently classified variants
   brca1_clinvar_2026-10-05_all.tsv                6,463 records — the full ClinVar pull
