@@ -6,6 +6,8 @@ The goal is to realise a project from A to Z answering an open and ambitious que
 
 The website for this year's edition can be found here: https://meet-eu-26-27.github.io/.
 
+The course will be launched on October 16, at 2pm, [online](https://cesnet.zoom.us/j/96292456885?pwd=fMFb2UNTQLw0F8QMt2yZoyYeKmMzFz.1).
+
 ## 🧪 Student pack
 Everything needed to start the project. Assembled 5 October 2026.
 
