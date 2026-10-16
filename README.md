@@ -6,7 +6,7 @@ The goal is to realise a project from A to Z answering an open and ambitious que
 
 The website for this year's edition can be found here: https://meet-eu-26-27.github.io/.
 
-
+## 🧪 Student pack
 Everything needed to start the project. Assembled 5 October 2026.
 
 ```
